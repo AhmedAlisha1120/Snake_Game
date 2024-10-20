@@ -1,4 +1,6 @@
-Snake Game 🐍
+#SNAKE GAME 🐍
+
+
 Snake Game is a classic arcade game developed using Python's Turtle module. In this game, the player controls the movement of a snake using the arrow keys. The objective is to guide the snake around the screen, eating food to grow in length while avoiding collisions with the walls and its own body.
 
 Key features:
