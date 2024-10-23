@@ -13,4 +13,4 @@ Score Tracking: The current score is displayed at the top of the screen and incr
 
 Game Over Conditions: The game ends when the snake's head collides with the wall or its own body, prompting a "Game Over" message.
 
-This simple yet engaging game is a great project for understanding fundamental game development concepts in Python, such as handling user input, object movement, and collision detection.
+
